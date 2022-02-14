@@ -9,3 +9,22 @@ header{
     color: white;
     text-align: center;
 }
+.prg1{
+    color: black;
+    text-align: justify;
+    margin-left: 20px;
+    margin-top: 40px;
+}
+.prg2{
+    height: 50vh;
+    background: black url(imagens/background001.jpg) center center no-repeat fixed;
+    
+}
+.prg21{
+    display: block;
+    background-color: rgba(0, 0, 0, 0.301);
+    color: white;
+    text-align: justify;
+    margin-left: 20px;
+    width: 300px;
+}
